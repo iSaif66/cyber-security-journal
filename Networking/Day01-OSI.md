@@ -3,11 +3,13 @@ OSI Model
 ## 🎯 Goal
 To understand how OSI Model works with 7 layers.
 ## 📚 Theory
-- OSI Model is not used widely right now because we use simpler internet model, but it's still useful in network troubleshooting.
-- It consists of 7 layers (Physical -> Data Link -> Network -> Transport -> Session -> Presentation -> Application)
+The OSI model divides network communication into seven layers.
+Each layer has a specific responsibility and communicates with the layers above and below it.
 ## 📝 Notes
-- 7 layers can be remembered using first letter of each word of the following senetence:
-All People Seem To Need Data Processing
+- Physical → Sends raw bits through cables or wireless signals.
+- Data Link → Uses MAC addresses and creates frames.
+- Network → Uses IP addresses and routes packets.
+- Transport → TCP / UDP.
 ## 💻 Commands
 
 None
@@ -18,7 +20,7 @@ None
 
 ## ❓ Questions
 
-None
+Why does the Internet use TCP/IP instead of the full OSI model?
 
 ## 🔗 Resources
 
@@ -26,4 +28,5 @@ None
 - OSI Model Cloudflare Documentation.
 
 ## 📌 Summary
-Not a big deal to be summerazied.
+The OSI model is a conceptual model used to understand network communication.
+Although TCP/IP is used in practice, the OSI model is very useful for learning and troubleshooting.
