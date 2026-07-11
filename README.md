@@ -1,2 +1,15 @@
-# cyber-security-journal
-This repo documents every day into my cyber security journey until I become an AppSec Security Engineer
+# Cyber Security Journal
+
+This repository documents my journey to become an Application Security Engineer.
+
+## Roadmap
+
+- [ ] Networking
+- [ ] Linux
+- [ ] Python
+- [ ] Windows
+- [ ] SOC
+- [ ] Blue Team
+- [ ] AppSec
+
+Started: July 2026
